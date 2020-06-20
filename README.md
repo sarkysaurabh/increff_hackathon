@@ -1,11 +1,13 @@
+<img src="https://github.com/sarkysaurabh/increff_hackathon/blob/master/view/hyper_local.png" width="500">
+
+
 Made as part of Increff hackathon 2019.
 
 This project secured Runner's Up position in the Finals.
 
 
+# Overview
 
-
-#Overview
 RideSearchLend WebApp to enable hyperlocal borrowing and lending
 of vehicles to allow people to earn with unused vehicles.
 
