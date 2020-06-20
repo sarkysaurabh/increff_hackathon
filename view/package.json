@@ -1,0 +1,42 @@
+{
+  "name": "reactivesearch-auth0-example",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@appbaseio/reactivesearch": "^1.2.0",
+    "antd": "^3.19.2",
+    "auth0-js": "^8.9.3",
+    "axios": "^0.19.0",
+    "idtoken-verifier": "1.1.0",
+    "jwt-decode": "^2.2.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-geosuggest": "^2.12.0",
+    "react-google-maps-loader": "^4.2.5",
+    "react-google-places-suggest": "^3.8.0",
+    "react-places-autocomplete": "^7.2.1",
+    "react-router-dom": "^4.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-react": "^7.13.0",
+    "eslint-plugin-standard": "^4.0.0",
+    "gh-pages": "^1.0.0",
+    "prettier": "^1.18.0",
+    "react-scripts": "1.0.13"
+  },
+  "scripts": {
+    "lint": "eslint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "Saurabh Mishra <sarkysaurabh@gmail.com>"
+}

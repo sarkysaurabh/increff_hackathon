@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  display: flex;
+  padding-top: 1em;
+  justify-content: center;
+  align-items: center;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.vehicleList {
+  max-width: 1200px;
+  margin: 20px auto;
+  border-style: solid;
+  border-width: 1px;
+  padding: 50px;
+}
+
+.searchBox {
+  max-width: 1000px;
+  margin: 0 auto;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.dist {
+  padding: 20px
+}
+
+.loc {
+  padding: 20px
+}
+
+.hitit {
+  padding-left: 300px
+
+}
+
+.owl {
+  max-width: 1200px;
+  margin: 20px auto;
+  border-style: solid;
+  border-width: 1px;
+  padding: 50px;
+}
+
+.anv {
+  display: inline;
+  margin: 20px 0px 20px 550px;
+  color: black;
+  font-size: 40px;
+}
+
+.lva {
+  display: inline;
+  margin: 20px 0px 20px 550px;
+  color: black;
+  font-size: 40px;
+}
+
+.anvb {
+  display: inline;
+  float: right;
+}
+
+.login {
+    margin: 500px 400px;
+}
