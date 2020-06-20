@@ -30,3 +30,7 @@ backend/build/
 
 ### VS Code ###
 backend/.vscode/
+view/.vscode/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
